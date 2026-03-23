@@ -1,0 +1,864 @@
+* {
+     margin: 0px;
+     padding: 0px;
+}
+
+body {
+     font-family: sans-serif;
+}
+
+.container {
+     background-image: url(WhatsApp\ Image\ 2025-09-07\ at\ 10.04.41_681bd0f6.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+}
+.row {
+     width: 90%;
+     display: flex;
+     flex-wrap: wrap;
+
+}
+
+.col1 {
+     height: 100%;
+     width: 40%;
+     padding: 40px 10px;
+     justify-content: center;
+     align-items: center;
+}
+.mainheadig{
+     margin-top: 9rem;
+}
+.col1 p{
+     width: 56%;
+     font-size: 21px;
+     /* margin-top: 10rem; */
+}
+.circle {
+     height: 100px;
+     width: 10%;
+     border-radius: 54%;
+     margin-top: 10px;
+     background-color: orangered;
+}
+
+.mainheadig {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: black;
+     justify-content: center;
+     font-size: 70px;
+
+}
+
+.buton {
+     border: 2px solid black;
+     border-radius: 25px;
+     padding: 10px 30px;
+     color: black;
+     margin-block: 25px;
+     cursor: pointer;
+
+}
+
+.buton:hover {
+     background-color: black;
+     color: white;
+}
+
+.container2 {
+     height: 80vh;
+     background-color: white;
+     display: flex;
+     justify-content: center;
+}
+
+.rowAll {
+     width: 90%;
+}
+
+.secondheading {
+     font-size: 40px;
+     font-family: sans-serif;
+     padding-block: 20px 10px;
+     text-align: center;
+}
+
+.maindiv {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     margin: 20px 0px;
+     color: white;
+}
+
+.icon {
+     width: 50%;
+     height: 50%;
+     color: white;
+}
+
+.para {
+     padding-left: 2px;
+
+}
+
+.pMargin {
+     margin-block: 10px 10px;
+}
+
+.bluediv {
+     background-color: rgb(23, 75, 72);
+     padding: 25px 10px;
+     width: 30%;
+     display: flex;
+
+}
+
+.graydiv {
+     background-color: gray;
+     padding: 25px 10px;
+     display: flex;
+     width: 30%;
+}
+
+.orangediv {
+     background-color: rgb(196, 92, 54);
+     padding: 25px 10px;
+     display: flex;
+     width: 30%;
+     border-radius: 10px;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.container3 {
+     background-image: url(WhatsApp\ Image\ 2025-09-07\ at\ 10.04.46_5a934a67.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100%;
+     display: flex;
+}
+
+.blockColParrent {
+     display: block;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     margin: 20px 10px;
+     color: black;
+}
+
+.blockpara {
+     background-color: white;
+     padding: 30px 25px;
+     margin: 20px;
+     width: 25%;
+     border-radius: 10px;
+     align-items: center;
+}
+
+.container4 {
+     display: flex;
+     justify-content: center;
+}
+
+.col4parent {
+     display: flex;
+     flex-wrap: wrap;
+
+}
+
+.col4 {
+     margin: 20px 20px;
+     width: 40%;
+     padding: 20px 25px;
+}
+
+.container5 {
+     background-image: url(WhatsApp\ Image\ 2025-09-07\ at\ 10.04.45_8f7ec0c9.jpg);
+     height: 50vh;
+     background-size: cover;
+}
+
+.container6 {
+     display: flex;
+     justify-content: center;
+
+}
+
+.col3parent {
+     display: flex;
+     justify-content: space-between;
+     margin-block: 20px;
+}
+
+.col3 {
+     width: 30%;
+}
+
+.button {
+     background-color: transparent;
+     color: black;
+     border-radius: 22px;
+     border: 1px solid black;
+     padding: 10px 22px;
+     cursor: pointer;
+}
+
+.button:hover {
+     background-color: black;
+     color: white;
+}
+
+.container7 {
+     background-image: url(WhatsApp\ Image\ 2025-09-07\ at\ 10.04.43_63afcb52.jpg);
+     background-size: cover;
+     height: 50vh;
+}
+
+.container8 {
+     background-color: rgb(76, 80, 96);
+     display: flex;
+     justify-content: center;
+
+}
+
+.cardparent {
+     display: flex;
+     justify-content: center;
+     justify-content: space-between;
+     margin: 20px 0px;
+}
+
+.card {
+     width: 30%;
+     background-color: white;
+
+}
+
+.cardcontent {
+     text-align: center;
+     padding: 15px 10px;
+     line-height: 25px;
+
+}
+
+.cardimg {
+     width: 100%;
+     height: 250px;
+}
+
+.container9 {
+     display: flex;
+     justify-content: center;
+
+}
+
+.twoColParrent {
+     display: flex;
+     padding: 30px 10px;
+}
+
+.firstCol {
+     width: 45%;
+}
+
+.secondCol {
+     width: 55%;
+     padding: 20px 40px;
+}
+
+p {
+     align-items: center;
+     /* display: flex; */
+     flex-wrap: wrap;
+     padding: 25px 8px;
+}
+
+.container10 {
+     background-image: url(WhatsApp\ Image\ 2025-09-07\ at\ 10.04.36_304ff07e.jpg);
+     background-size: cover;
+     display: flex;
+     justify-content: center;
+     height: 100vh;
+}
+
+.onecolparent {
+     align-items: center;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     text-align: center;
+     padding: 100px 20px;
+}
+
+.btn1 {
+     background-color: black;
+     color: white;
+     border-radius: 22px;
+     border: 1px solid black;
+     padding: 10px 22px;
+     cursor: pointer;
+     margin: 10px 10px;
+}
+
+.btn1:hover {
+     background-color: transparent;
+     color: black;
+
+}
+
+.btn2 {
+     background: transparent;
+     color: black;
+     border-radius: 22px;
+     border: 1px solid black;
+     padding: 8px 22px;
+     margin: 10px 10px;
+     cursor: pointer;
+}
+
+.btn2:hover {
+     background-color: white;
+     color: black;
+
+}
+
+.container11 {
+     display: flex;
+     justify-content: center;
+     height: 40vh;
+}
+.icons {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     padding: 5px 10px;
+     font-size: 50px;
+}
+.container12 {
+     background-color: rgb(225, 102, 102);
+     display: flex;
+     justify-content: center;
+}
+.lastCardParent{
+     display: flex;
+     justify-content: center;
+}
+
+.lastCard {
+     background-color: white;
+     width: 25%;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin: 30px 10px;
+     padding: 20px 35px;
+     border: 1px solid none;
+     border-radius: 5px;
+}
+
+.circleimg {
+     width: 70px;
+     height: 70px;
+     border-radius: 50%;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    
+    
+     .container {
+          height: 100vh;
+          display: flex;
+          justify-content: center;
+     }
+
+     .col1 {
+          height: 50vh;
+          width: 80%;
+          justify-content: center;
+     }
+.circle{
+     width: 30%;
+     height: 15vh;
+  transform: translateY(-30px);
+}
+     .mainheadig {
+          font-size: 55px;
+          transform: translateY(-10rem);
+     }
+.col1 p{
+     transform: translateY(-11em);
+     font-size: 16px;
+     width: 112%;
+}
+.buton {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin: 40px;
+     transform: translateY(-12em);
+     width: 80%;
+     height: 9vh;
+     margin-left: 2rem;
+     }
+
+.container2 {
+     height: 95%;
+     display: flex;
+}
+
+.secondheading{
+     font-size: 35px;
+     font-weight: 600;
+}
+.rowAll p{
+     transform: translateY(-13px);
+}
+.maindiv{
+    margin: 10px;
+    transform: translateY(-20px);
+}
+.bluediv {
+     padding: 30px 10px;
+     width: 100%;
+     margin-right: 10px;
+     display: flex;
+     margin: 6px;
+     font-size: 16px;
+}
+
+     .graydiv {
+          background-color: gray;
+          padding: 25px 15px;
+          display: flex;
+          width: 100%;
+          margin: 5px;
+     }
+
+     .orangediv {
+          padding: 35px 15px;
+          display: flex;
+          border-radius: 15px;
+          width: 100%;
+          margin: 5px;
+     }
+
+     .container3 {
+          height: 100%;
+          display: flex;
+     }
+
+     .blockColParrent {
+          display: block;
+          flex-wrap: wrap;
+          margin: 35px 15px;
+     }
+
+     .blockpara {
+          margin: 20px;
+          width: 100%;
+     }
+     .blockpara  p{
+          width: 120%;
+     }
+     .container4 {
+     display: flex;
+     justify-content: center;
+}
+
+.col4parent{
+     width: 120%;
+}
+.col4 {
+     margin: 15px 20px;
+     width: 130%;
+     padding: 15px 20px;
+}
+.col3parent{
+display:block;
+}
+.col3{
+     width: 110%;
+}
+.button{
+     margin-right: 10px;
+width: 70%;
+margin-bottom: 30px;
+}
+/* .container8{} */
+.cardparent {
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin: 20px 10px;
+}
+
+.card h3{
+     font-size: 25px;
+}
+.card {
+     width:100%;
+     background-color: white;
+     margin: 20px 0px;
+}
+.cardparent .button{
+     width: 100%;
+     margin-left: 30px;
+}
+.twoColParrent {
+     display: flex;
+     flex-wrap: wrap;
+     padding: 20px 5px;
+}
+.firstCol {
+     width: 120%;
+     padding-left: 10px;
+transform: translateY(-10px);
+}
+.secondCol {
+     width: 260%;
+     padding: 20px 40px;
+}
+
+.onecolparent{
+     width: 110%;
+     transform: translateY(-20px);
+}
+/* .btn1{
+     mar
+} */
+.icons {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-betwee;
+     padding: 5px 10px;
+     font-size: 40px;
+     align-items: center;
+}
+/* .container10{} */
+.btn1{
+     width: 80%;
+}
+.btn2{
+     width: 80%;
+}
+
+.container12 {
+     display: flex;
+     /* flex-wrap: wrap; */
+     justify-content: center;
+}
+.lastCardParent{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+}
+.lastCard {
+     width: 90%;
+     height: 65vh;
+}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+     .container {
+     height: 100vh;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+}
+
+
+.row {
+     width: 90%;
+}
+
+.col1 {
+     height: 100%;
+     width: 90%;
+     padding: 40px 10px;
+     justify-content: center;
+     align-items: center;
+}
+
+.circle {
+     height: 50px;
+     width: 50px;
+     border-radius: 50%;
+     background-color: orangered;
+}
+
+.mainheadig {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: black;
+     justify-content: center;
+     font-size: 70px;
+
+}
+
+.btn {
+     border: 1px solid black;
+     border-radius: 25px;
+     padding: 10px 30px;
+     background-color: black;
+     color: white;
+     margin-block: 25px;
+     cursor: pointer;
+}
+
+.btn:hover {
+     background-color: white;
+     color: black;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+     .container{
+          height: 100vh;
+          width: 100%;
+     }
+     .row {
+     width: 90%;
+}
+.col1{
+     transform: translateY(-1rem);
+     
+}
+.circle{
+     width: 19%;
+     height: 20vh;
+     transform: translateY(-1rem);
+}
+.mainheadig{
+     width: 20%;
+     padding: 35px;
+     font-size: 64px;
+     transform: translateY(-11rem);
+}
+.col1 p{
+     width: 65%;
+     transform: translateY(-14rem);
+     font-size: 16px;
+     margin-left: -10px;
+
+}
+.buton{
+     transform: translateY(-16rem);
+     margin-left: 91px;
+     width: 33%;
+}
+.rowAll p{
+transform: translateY(-20px);
+}
+.maindiv{
+     margin: 10px 0px;
+}
+.bluediv{
+     transform: translateX(-1rem);
+     width: 33%;
+     height: 43vh;
+}
+.para{
+     font-size: 13px;
+}
+.graydiv{
+     transform: translateX(-14.4rem);
+          width: 33%;
+     height: 43vh;
+}
+.orangediv{
+     width: 35%;
+     height: 43vh;
+     transform: translateX(30rem);
+     margin-top: -14.5rem;
+}
+.blockpara{
+     width: 50%;
+}
+.col4parent{
+     margin-left: 40px;
+}
+.col4{
+     width: 42%;
+}
+/* .container8{
+     
+} */
+ .cardparent{
+     width: 100%;
+     display: flex;
+ }
+ .card{
+     width: 30%;
+     height: 15vh;
+ }
+ .cardimg{
+     height: 29vh;
+ }
+ .cardconten{
+font-size: 20px;
+ }
+ .button{
+     width: 30%;
+     font-size: 18px;
+}
+/* .container10{
+     
+ } */
+  .btn1{
+     width: 30%;
+  }
+  .btn2{
+     font-size: 16px;
+     font-weight: 500;
+     width: 30%;
+  }
+  /* .container12{} */
+  .lastCard{
+     width: 50%;
+  }
+
+}
+@media only screen and (min-width: 960px)and (max-width: 1025px) {
+
+     .container{
+          height: 90vh;
+     }
+.circle{
+     width: 17%;
+     height: 18vh;
+}
+.mainheadig{
+     transform: translateY(-4rem);
+}
+.col1 p{
+     width: 80%;
+     padding-left: -24px;
+     transform: translateY(-4rem);
+}
+.buton{
+     width: 30%;
+height: 7vh;
+font-size: 19px;
+     margin-left: 13rem;
+     transform: translateY(-5rem);
+}
+.bluediv{
+     width: 34%;
+     transform: translateX(-2rem);
+
+}
+.graydiv{
+     width: 34%;
+     transform: translateX(-19rem);
+}
+.orangediv{
+     width: 34%;
+     height: 43vh;
+     transform: translateX(40rem);
+     margin-top: -19rem;
+
+}
+/* .container3{
+     
+} */
+ .blockColParrent{
+     width: 160%;
+     font-size: 20px;
+ }
+/* .container4{} */
+
+
+.col4parent{
+     width: 120%;
+}
+/* .container6{} */
+.col3{
+     font-size: 20px;
+     color: black;
+}
+.button{
+     width: 23%;
+     font-size: 19px;
+}
+/* .container8{} */
+.cardimg{
+     height: 18vh;
+}
+.container10{
+     height: 80vh;
+}
+.onecolparent h1{
+     font-size: 49px;
+}
+.onecolparent p{
+font-size: 20px;
+margin-top: 20px;
+}
+.btn1{
+     width: 25%;
+     height: 7vh;
+     font-size: 20px;
+}
+.btn2{
+     width: 25%;
+     height: 7vh;
+     font-size: 20px;
+}
+/* .container11{} */
+.icons{
+     height: 7vh;
+     margin-top: 30px;
+}
+.container12{
+     height: 40%;
+}
+.lastCard{
+     width: 40%;
+}
+.lastCardParent{
+     font-size: 20px;
+}
+.circleimg{
+     width: 40%;
+     height: 14vh;
+}
+}
+@media only screen and (min-width: 1440px) {
+     .container{
+height: 70vh;
+     }
+     .row{
+          width: 90%;
+     }
+     .circle{
+          width: 11%;
+          height: 14vh;
+     }
+     .mainheadig{
+          font-size: 60px;
+          transform: translateY(-7rem);
+     }
+     .col1 p{
+font-size: 19px;
+          transform: translateY(-8rem);
+          margin-left: -4rem;
+     }
+     .buton{
+          width: 21%;
+          transform: translateY(-9rem);
+          margin-left: 9rem;
+
+     }
+     .rowAll{
+          writing-mode: 80%;
+     }
+     .secondheading{
+          font-size: 50px;
+          margin-left: -15rem;
+     }
+}
+

@@ -24,7 +24,7 @@ It allows users to view real-time cryptocurrency prices and trends.
    Tools: HTML, CSS, Basic JS  
 
 ## Live Demo
-[loquacious-conkies-d9adf4.netlify.app]
+[[loquacious-conkies-d9adf4.netlify.app](https://loquacious-conkies-d9adf4.netlify.app/)
 
 ## Portfolio & Links
 - GitHub: https://github.com/iqrashafique2416/iqrashafique2416-crypto
